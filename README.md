@@ -1,7 +1,7 @@
 # CS2 Resolutions scripts
 
 ## Usage 
-Put scripts or link to /usr/local/bin/ to execute them as real programs or commands.
+Put scripts or link to ```/usr/local/bin/``` to execute them as real programs or commands.
 
 Replace the resolution in cs2-res with the resolution you want to use in cs2.
 
