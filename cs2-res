@@ -1,0 +1,2 @@
+pkill picom
+xrandr --output DisplayPort-0 --mode 1920x1080 --scale-from 1280x960 --rate 239.96
